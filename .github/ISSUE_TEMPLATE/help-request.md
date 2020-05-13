@@ -1,6 +1,6 @@
 ---
 name: Help request
-about: Describe this issue template's purpose here.
+about: Ask for help
 title: "[Help Wanted]"
 labels: help wanted
 assignees: JaspalSuri
