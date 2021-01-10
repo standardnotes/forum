@@ -7,6 +7,15 @@ assignees: ''
 
 ---
 
+- [ ] I have searched open and closed issues for duplicates
+<!--
+  You can search all issues here:
+    https://github.com/standardnotes/forum/issues?utf8=%E2%9C%93&q=is%3Aissue
+  Replace [ ] with [X] once you've searched
+-->
+
+---
+
 **Have you read the [Longevity Statement](https://standardnotes.org/longevity)?**
 
 **Is your feature request related to a problem? Please describe.**
