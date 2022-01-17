@@ -3,7 +3,7 @@ name: Help request
 about: Ask for help
 title: "[Help Wanted]"
 labels: help wanted
-assignees: JaspalSuri
+assignees:
 
 ---
 
